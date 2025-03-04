@@ -8,7 +8,7 @@ public class O1SpringbtGitApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(O1SpringbtGitApplication.class, args);
-		System.out.println("hi");
+		int i;
 	}
 
 }
